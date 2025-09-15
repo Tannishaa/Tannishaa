@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Tanisha 👋
 
-<!--
-**Tannishaa/Tannishaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year BCA student and AWS Certified Cloud Practitioner, passionate about building beautiful and scalable tech. I love blending creative UI/UX design with robust cloud solutions.
 
-Here are some ideas to get you started:
+- 🎓 Final-year Bachelor of Computer Applications
+- ☁️ AWS Certified Cloud Practitioner
+- 🎨 Passionate about UI/UX & Front-End Development
+- 🌱 Always learning and creatively solving problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,aws,figma" />
+  </a>
+</p>
+
+---
+
+**📫 Let's Connect!**
+
+[LinkedIn](https://www.linkedin.com/in/tanishas-profile/) | [Portfolio](YOUR_PORTFOLIO_URL)
+
+---
+*🎵 Fun Fact: When I'm not coding, I'm probably lost in a novel or a great playlist.*
