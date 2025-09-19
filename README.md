@@ -21,7 +21,7 @@ I'm a final-year BCA student and AWS Certified Cloud Practitioner, passionate ab
 
 **📫 Let's Connect!**
 
-[LinkedIn](https://www.linkedin.com/in/tanishas-profile/) | [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/tanishas-profile/) | [Portfolio](https://tanisha-portfolio-beta.vercel.app/#)
 
 ---
 *🎵 Fun Fact: When I'm not coding, I'm probably lost in a novel or a great playlist.*
