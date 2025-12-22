@@ -2,7 +2,7 @@
 
 I am a final-year BCA student and **AWS Certified Cloud Practitioner**, bridging the gap between creative design and robust cloud infrastructure.
 
-Currently, I am focused on **Cloud Automation** and **Backend Engineering**—building tools that don't just look good, but solve real-world efficiency problems.
+Currently, I am focused on **Cloud Automation** and **Backend Engineering**,i.e., building tools that don't just look good, but solve real-world efficiency problems.
 
 - 🎓 **Final-year BCA** at Banasthali Vidyapith
 - ☁️ **AWS Certified** (CLF-C02)
@@ -12,11 +12,18 @@ Currently, I am focused on **Cloud Automation** and **Backend Engineering**—bu
 ---
 
 ### 🚀 What I'm Building
-**[Winter Arc Tools](https://github.com/Tannishaa/winter-arc-tools)**
-*A production-grade cloud automation suite.*
+
+**Winter Arc Tools:** *A production-grade cloud engineering portfolio.*
+
+**1. Cloud Vault (Automated Backup Tool)**
 * **Automated Backups:** Python script that recursively scans local directories and secures data to AWS S3.
 * **Real-Time Sync:** Background daemon service (Watchdog) that instantly teleports files to the cloud upon creation.
 * **Disaster Recovery:** CLI utility to restore full directory trees from the cloud.
+
+**2. Bill-E (AI Financial Auditor)**
+* **Serverless ETL:** Automated pipeline that digitizes physical receipts using OCR and Python.
+* **Smart Parsing:** Custom regex algorithms that filter noise (GST IDs, Dates) to extract accurate financial totals.
+* **Cloud Ledger:** Automatically stores structured audit records in AWS DynamoDB using Infrastructure as Code (Boto3).
 
 ---
 
