@@ -1,44 +1,48 @@
 ### Hi, I'm Tanisha 👋
+[![](https://komarev.com/ghpvc/?username=Tannishaa&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Tannishaa)
 
-I am a final-year BCA student and **AWS Certified Cloud Practitioner**, bridging the gap between creative design and robust cloud infrastructure.
+I am a **Cloud Engineer & Python Developer** focused on building high-availability serverless systems. As an **AWS Certified Cloud Practitioner**, I specialize in automating infrastructure and creating event-driven backend services.
 
-Currently, I am focused on **Cloud Automation** and **Backend Engineering**,i.e., building tools that don't just look good, but solve real-world efficiency problems.
-
-- 🎓 **Final-year BCA** at Banasthali Vidyapith
+- 🎓 **BCA (Final Year)** @ Banasthali Vidyapith
 - ☁️ **AWS Certified** (CLF-C02)
-- 🛠️ Building the **Winter Arc** series: Daily cloud engineering challenges.
-- 🌱 Exploring **Serverless Architectures** and **Python Automation**.
+- 🛠️ Currently building the **Winter Arc** series: A trilogy of production-grade cloud tools.
+- 🌱 Deep-diving into **Asynchronous Processing** and **Cost-Optimization** in AWS.
 
 ---
 
-### 🚀 What I'm Building
+### Featured Projects (The Winter Arc Trilogy)
 
-**Winter Arc Tools:** *A production-grade cloud engineering portfolio.*
+**1. Vibe-Check: Real-Time Sentiment Analysis API**
+* **Architecture:** Serverless REST API using **AWS Lambda**, **API Gateway**, and **SNS**.
+* **Engine:** Engineered a **Cost-Optimized Sentiment Engine** using rule-based filtering, achieving sub-millisecond logic execution and $0 inference costs.
+* **Alerting:** Automated "Crisis Trigger" system that flags negative feedback loops via SNS Email alerts in < 2 seconds.
 
-**1. Cloud Vault (Automated Backup Tool)**
-* **Automated Backups:** Python script that recursively scans local directories and secures data to AWS S3.
-* **Real-Time Sync:** Background daemon service (Watchdog) that instantly teleports files to the cloud upon creation.
-* **Disaster Recovery:** CLI utility to restore full directory trees from the cloud.
+**2. Bill-E: Automated Financial ETL Pipeline**
+* **Automation:** Event-driven pipeline that digitizes receipts using **OCR** and **Python** triggered by S3 ingestion.
+* **Parsing:** Custom validation algorithms to isolate financial data from noise, achieving 95% accuracy on test datasets.
+* **Storage:** Automated environment provisioning via **Boto3** to maintain a structured cloud ledger in **DynamoDB**.
 
-**2. Bill-E (AI Financial Auditor)**
-* **Serverless ETL:** Automated pipeline that digitizes physical receipts using OCR and Python.
-* **Smart Parsing:** Custom regex algorithms that filter noise (GST IDs, Dates) to extract accurate financial totals.
-* **Cloud Ledger:** Automatically stores structured audit records in AWS DynamoDB using Infrastructure as Code (Boto3).
+**3. Cloud Vault: Secure Backup Daemon**
+* **Sync Logic:** Multi-threaded background daemon using **Watchdog** to replicate local filesystem events to **AWS S3** in real-time.
+* **Security:** Enforced AES-256 Server-Side Encryption and granular IAM policies for secure data persistence.
+* **Optimization:** Reduced storage overhead by 40% using automated **S3 Lifecycle Policies**.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| **Cloud & Automation** | **Frontend & Design** | **Core & Tools** |
+| **Cloud & Backend** | **Automation & DevOps** | **Frontend & Design** |
 | :--- | :--- | :--- |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![Boto3](https://img.shields.io/badge/Boto3-AWS_SDK-yellow?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) | ![Boto3](https://img.shields.io/badge/Boto3-AWS_SDK-yellow?style=for-the-badge&logo=python) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 ---
 
 **📫 Let's Connect**
 
-[LinkedIn](https://www.linkedin.com/in/tanishas-profile/) • [Portfolio](https://tanisha-portfolio-beta.vercel.app/#)
+[**LinkedIn**](https://www.linkedin.com/in/tanishas-profile/) • [**Portfolio**](https://tanisha-portfolio-beta.vercel.app/#) • [**Email**](mailto:Tanisha.connect.in@gmail.com)
 
 ---
 *🎵 When I'm not deploying code, I'm usually lost in a novel or curating the perfect playlist.*
