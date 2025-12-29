@@ -41,7 +41,7 @@ I am a **Cloud Engineer & Python Developer** focused on building high-availabili
 
 **Let's Connect**
 
-[**LinkedIn**](https://www.linkedin.com/in/tanishas-profile/) • [**Portfolio**](https://tanisha-portfolio-beta.vercel.app/#) • [**Email**](mailto:Tanisha17016@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/tanishas-profile/) • [**Portfolio**](https://tanisha-cloud-portfolio.vercel.app/) • [**Email**](mailto:Tanisha17016@gmail.com)
 
 ---
 *🎵 When I'm not deploying code, I'm usually lost in a novel or curating the perfect playlist.*
