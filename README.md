@@ -1,72 +1,72 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=A855F7&center=true&vCenter=true&width=650&lines=Tanisha;Cloud+%26+Backend+Engineer;AWS+Certified+%7C+Google+Cloud+GenAI;Available+for+Immediate+Hire" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=A855F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tanisha;Fresh+BCA+Grad;AWS+Certified+Cloud+Practitioner;Building+Cloud+Native+Systems;Looking+for+opportunities" alt="Typing SVG" />
 </div>
 
 <br/>
 
-I am a **Cloud & Backend Engineer** and **AWS Certified Cloud Practitioner** specializing in high-concurrency logic, event-driven architectures, and serverless systems. I bridge the gap between architectural theory and production-grade implementation—focusing on race condition management, fault-tolerant execution, and cost-optimized infrastructure.
+I’m a fresh **BCA graduate (Class of 2026)** and an **AWS Certified Cloud Practitioner** who’s obsessed with the "build-first" philosophy. While most people are reading theory, I’m busy breaking (and then fixing) event-driven architectures and serverless pipelines.
 
-- **Status:** BCA Graduate (Class of 2026) | **Available for Full-Time Roles & Immediate Joining.**
-- **Certifications:** [AWS Certified (CLF-C02)](https://www.credly.com/badges/869f5c74-7ec2-42c5-9877-81f32abc7828/public_url) | [Google Cloud: Introduction to Generative AI](https://www.skills.google/public_profiles/67ff5aad-de55-4f9d-bf3a-9720cc80dc94/badges/23945966).
-- **Current Sprint:** Deep-diving into Relational Database Design (SQL) and Distributed Systems.
+I love the challenge of high-concurrency systems—basically, making sure things don't crash when everyone clicks "buy" at the exact same second.
 
----
-
-### Proof of Work: Cloud Architecture
-*Systems engineered for resilience, scalability, and zero-idle cost.*
-
-**1. Bill-E: Serverless Audit Pipeline**
-> *A decoupled, event-driven ingestion engine for real-time financial risk analysis.*.
-* **Tech:** AWS (Lambda, SQS, S3, DynamoDB), Terraform, Next.js, Python OCR.
-* **Architecture:** Engineered a fault-tolerant pipeline that intercepts OCR timeouts and manages lifecycle states (Queued → Processing → Analyzed) with automated SNS alerts for high-risk flags..
-* **Links:** [**Live Demo**](https://bill-e-audit.vercel.app/) • [**GitHub**](https://github.com/Tannishaa/bill-e-audit)
-
-**2. Flux-Order: High-Concurrency Ticketing Engine**
-> *A distributed system designed to survive flash-sale traffic spikes.*
-* **Tech:** Python, Redis, AWS (SQS, DynamoDB), Next.js.
-* **Architecture:** Resolved critical double-booking race conditions using **Redis Distributed Locks (Mutex)** and implemented an idempotent worker service to ensure 100% data consistency.
-* **Links:** [**Live Demo**](https://flux-cinema-frontend.vercel.app/) • [**GitHub**](https://github.com/Tannishaa/flux-order)
-
-**3. Sentinel: Network Intrusion Detection (NIDS)**
-> *Real-time network security monitoring and packet analysis.*
-* **Tech:** Python, FastAPI, Scapy.
-* **Architecture:** Developed a low-latency backend to parse high-throughput network packets, feeding real-time threat intelligence into a centralized monitoring dashboard.
-* **Links:** [**GitHub**](https://github.com/Tannishaa)
+- **The Vibe:** Top-down engineer. I build functional projects first, then dive deep into the theory.
+- **Current Sprint:** Grinding through Python muscle memory and learning why SQL indexes are actually a lifesaver.
+- **Availability:** Graduated and ready to join **immediately.** 
 
 ---
 
-### Technical Arsenal
-| **Cloud & Infrastructure** | **Backend & Logic** | **Frontend & Tools** |
+### Stuff I've Built (That Actually Works)
+
+**1. Bill-E: The Receipt Detective**
+*   **The Problem:** Manually auditing bills is boring and prone to fraud.
+*   **My Solution:** A serverless pipeline that uses AI to "read" receipts and flag high-risk spending automatically.
+*   **The Tech:** AWS Lambda, S3, DynamoDB, Python.
+*   **Links:** [**Live Demo**](https://bill-e-audit.vercel.app/) • [**Code**](https://github.com/Tannishaa/bill-e-audit)
+
+**2. Flux-Order: Flash-Sale Survival Kit**
+*   **The Problem:** Preventing double-bookings when 1,000 people try to grab 1 ticket.
+*   **My Solution:** A ticketing engine using **Redis Mutex locks** to keep data 100% consistent.
+*   **The Tech:** Python, Redis, AWS SQS, Next.js.
+*   **Links:** [**Live Demo**](https://flux-cinema-frontend.vercel.app/) • [**Code**](https://github.com/Tannishaa/flux-order)
+
+**3. Sentinel: Network Guard**
+*   **The Problem:** Real-time packet sniffing and threat detection.
+*   **My Solution:** A FastAPI backend that parses network traffic and feeds it into detection models.
+*   **The Tech:** Python, Scapy, FastAPI.
+*   **Links:** [**Code**](https://github.com/Tannishaa)
+
+---
+
+### My Tech Stack
+| **Cloud** | **Backend** | **Tools** |
 | :--- | :--- | :--- |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
-| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
-| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-<br/>
+---
+
 ### GitHub Insights
+
 <div align="center">
-  <!-- Top Row: Stats & Streak -->
   <img src="https://github-readme-stats.vercel.app/api?username=Tannishaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tannishaa&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
-<br/>
-
 <div align="center">
-  <!-- Bottom Row: Languages & Activity Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tannishaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="35%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tannishaa&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="61%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tannishaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tannishaa&theme=tokyonight" width="48%" />
 </div>
 
 <br/>
+
 <div align="center">
 
-**Let's Connect**
+**Let's Chat!**
 
 [**LinkedIn**](https://www.linkedin.com/in/tanishas-profile/) • [**Portfolio**](https://tanisha-cloud-portfolio.vercel.app/) • [**Email**](mailto:Tanisha17016@gmail.com)
 
 ---
 
-*I build systems that don't just work-they survive.*
+*If I'm not coding, I'm probably watching F1 or hunting for a new playlist.*
 
 </div>
