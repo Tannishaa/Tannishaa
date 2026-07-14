@@ -12,13 +12,13 @@
 
 <br/>
 
-I'm a **BCA graduate (Class of 2026)** and **AWS Certified Cloud Practitioner** with hands-on experience designing and deploying serverless, event-driven systems on AWS. I've independently built three production-grade cloud applications — including a high-concurrency ticketing engine and a fully serverless audit pipeline provisioned with Terraform.
+I'm a **BCA graduate (Class of 2026)** and an **AWS Certified Cloud Practitioner** with a strong focus on designing and deploying serverless, event-driven architectures. I thrive on building production-grade systems from the ground up, having independently engineered solutions like a high-concurrency ticketing backend and a fully serverless, Terraform-provisioned audit pipeline.
 
-My engineering philosophy is **build-first**: I ship functional systems, then go deep on the theory. I'm drawn to the hard problems in distributed systems — race conditions, idempotency, fault tolerance, and what actually happens when 1,000 users click "buy" at the same time.
+My engineering philosophy is **build-first**: I ship functional, resilient systems, and then dive deep into the underlying theory. I am fascinated by the complex challenges of distributed systems—managing race conditions, ensuring idempotency, maintaining fault tolerance, and solving what *actually* happens when 1,000 users click "buy" at the exact same time.
 
-- 🏗️ **Currently:** Sharpening Python and SQL fundamentals (indexes are genuinely underrated)
-- ✅ **Availability:** Graduated and ready to join **immediately**
-- 📍 **Location:** Alwar, Rajasthan | Open to relocation
+- 🏗️ **Currently:** Deepening my Python and SQL expertise (because strategic indexing is incredibly underrated).
+- ✅ **Availability:** Graduated and ready to join **immediately**.
+- 📍 **Location:** Alwar, Rajasthan | Open to relocation.
 
 ---
 
@@ -27,13 +27,13 @@ My engineering philosophy is **build-first**: I ship functional systems, then go
 ### 🧾 Bill-E — Serverless Audit Pipeline
 > `AWS Lambda` · `SQS` · `S3` · `DynamoDB` · `Terraform` · `Python` · `Next.js`
 
-**The problem:** Manual bill auditing is slow, expensive, and fraud-prone.
+**The Problem:** Manual bill auditing is slow, resource-heavy, and highly vulnerable to fraud.
 
-**What I built:** A zero-idle-cost, event-driven ingestion pipeline (`S3 → SQS → Lambda`) provisioned entirely with Terraform. An OCR heuristic risk-scoring engine parses unstructured receipt data, tracks pipeline state in DynamoDB, and surfaces results on a real-time Next.js dashboard. Automated SNS alerts fire for any event scoring above threshold, reducing manual review overhead significantly.
+**The Solution:** I architected a zero-idle-cost, event-driven ingestion pipeline (`S3 → SQS → Lambda`) provisioned entirely via Terraform. An OCR-based heuristic risk-scoring engine parses unstructured receipt data, tracks pipeline state in DynamoDB, and surfaces real-time results on a Next.js dashboard. Automated SNS alerts trigger for high-risk events, drastically reducing the need for manual review.
 
-- Elastic scalability with zero dedicated server costs via serverless architecture
-- Fault-tolerant Lambda retry logic for external API rate limits
-- End-to-end infrastructure as code with Terraform
+- **Elastic Scalability:** Achieved zero dedicated server costs utilizing a fully serverless architecture.
+- **Fault Tolerance:** Implemented robust Lambda retry logic to safely handle external API rate limits.
+- **Infrastructure as Code:** Managed end-to-end infrastructure deployment using Terraform.
 
 🔗 [**Live Demo**](https://bill-e-audit.vercel.app/) · [**Source Code**](https://github.com/Tannishaa/bill-e-audit)
 
@@ -42,13 +42,13 @@ My engineering philosophy is **build-first**: I ship functional systems, then go
 ### 🎟️ Flux-Order — High-Concurrency Ticketing Engine
 > `Python` · `Redis` · `AWS SQS` · `DynamoDB` · `Next.js`
 
-**The problem:** Flash-sale double-bookings when hundreds of users hit the same inventory simultaneously.
+**The Problem:** Flash sales frequently cause double-bookings when hundreds of users request the same inventory simultaneously.
 
-**What I built:** A decoupled, asynchronous ticketing backend that separates the Next.js frontend from Python processing workers via SQS. Redis Distributed Locks (Mutex) eliminate race conditions during concurrent transactions, achieving **100% transactional consistency** under load. An idempotent SQS consumer with DynamoDB deduplication guarantees exactly-once order processing across retry cycles.
+**The Solution:** I built a decoupled, asynchronous ticketing backend that isolates the Next.js frontend from Python processing workers via AWS SQS. By leveraging Redis Distributed Locks (Mutex), I eliminated race conditions during concurrent transactions, achieving **100% transactional consistency** under heavy load. An idempotent SQS consumer with DynamoDB deduplication ensures exact-once order processing, even across retry cycles.
 
-- Absorbs flash-sale traffic spikes with async, queue-driven architecture
-- Zero double-bookings via Redis Mutex — verified under concurrent load tests
-- Exactly-once delivery guarantee via idempotency keys
+- **High Availability:** Absorbs massive flash-sale traffic spikes using a queue-driven, async architecture.
+- **Concurrency Control:** Verified zero double-bookings under intense load testing using Redis Mutex.
+- **Data Integrity:** Guaranteed exactly-once delivery via strict idempotency keys.
 
 🔗 [**Live Demo**](https://flux-cinema-frontend.vercel.app/) · [**Source Code**](https://github.com/Tannishaa/flux-order)
 
@@ -57,9 +57,9 @@ My engineering philosophy is **build-first**: I ship functional systems, then go
 ### 🛡️ Sentinel — AI-Driven Network Intrusion Detection (NIDS)
 > `Python` · `FastAPI` · `Scapy` · `Machine Learning`
 
-**The problem:** Real-time network threat detection requires high-throughput packet analysis.
+**The Problem:** Effective real-time network threat detection requires robust, high-throughput packet analysis.
 
-**What I built:** A real-time NIDS backend using Scapy to capture and analyze high-throughput network packets, flagging anomalous traffic patterns for downstream ML classification models. A low-latency FastAPI REST interface exposes live threat metrics and alerts to a centralized security dashboard for continuous monitoring.
+**The Solution:** Developed a real-time NIDS backend utilizing Scapy to capture and analyze high-throughput network packets, successfully flagging anomalous traffic patterns for downstream ML classification models. Exposed live threat metrics through a low-latency FastAPI REST interface to feed a centralized security monitoring dashboard.
 
 🔗 [**Source Code**](https://github.com/Tannishaa)
 
@@ -83,14 +83,14 @@ My engineering philosophy is **build-first**: I ship functional systems, then go
 | Certification | Issuer | Year |
 | :--- | :--- | :--- |
 | ☁️ AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | 2025 |
-| 🤖 Introduction to Generative AI- Microlearning Course | Google Cloud | 2026 |
+| 🤖 Introduction to Generative AI - Microlearning Course | Google Cloud | 2026 |
 
 ---
 
 ## Education
 
-**Bachelor of Computer Applications (BCA)** — CGPA: 8.15/10.0
-Banasthali Vidyapith, Rajasthan · *May 2026*
+**Bachelor of Computer Applications (BCA)** — CGPA: 8.15/10.0  
+Banasthali Vidyapith, Rajasthan · *Class of 2026*
 
 ---
 
@@ -98,7 +98,7 @@ Banasthali Vidyapith, Rajasthan · *May 2026*
 
 **Workshop Lead, Core Organizing Team** — Mayukh Tech Fest, Banasthali Vidyapith *(Jan 2025 – Mar 2026)*
 
-Directed end-to-end logistics, scheduling, and resource allocation for technical workshops across two annual cycles serving 500+ attendees per edition. Managed a sub-team of volunteers and coordinated speaker and vendor relations.
+Led end-to-end logistics, scheduling, and resource allocation for technical workshops across two annual tech fests, serving over 500 attendees per edition. Managed a dedicated sub-team of volunteers while coordinating directly with speakers and vendors to ensure seamless execution.
 
 ---
 
@@ -118,7 +118,7 @@ Directed end-to-end logistics, scheduling, and resource allocation for technical
 
 <div align="center">
 
-📬 **Open to cloud, backend, and DevOps engineering roles — available immediately.**
+📬 **Open to Cloud, Backend, and DevOps engineering roles — available immediately.**
 
 [**LinkedIn**](https://www.linkedin.com/in/tanishas-profile/) · [**Portfolio**](https://tanisha-cloud-portfolio.vercel.app/) · [**Email**](mailto:Tanisha17016@gmail.com)
 
